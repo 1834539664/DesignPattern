@@ -9,7 +9,7 @@ package com.wh_1215.pattern.factory.config_factory;
 public class AmericanCoffee extends Coffee {
     @Override
     public String getName() {
-        return "AmericanCoffee";
+        return "美式咖啡";
     }
 
 }
